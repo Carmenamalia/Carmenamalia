@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carmen</h1>
 <h3 align="center">A passionate backend developer from Romania</h3>
 
-- 🔭 I’m currently working on **iaBilet-clone**
+- 🔭 I’m currently working on **event-app**
 
 - 🌱 I’m currently learning **Spring Boot, Java, MySQL**
 
